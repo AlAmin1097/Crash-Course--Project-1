@@ -1,0 +1,51 @@
+body{
+	 background-color: #089DE3;
+ }
+h1{
+	 color: white;
+	 text-align: center;
+	 font-family: 'Aldrich';
+	 font-size: 65px;
+ }
+p{
+	 font-family: verdana;
+	 font-size: 25px;
+ }
+img{
+	 width: 200px;
+	 height: 200px;
+	 border-radius: 3%;
+ }
+.image{
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	
+}
+input{
+	width: 290px;
+	height: 30px;
+	border: 2px solid white;
+	border-radius: 4px;
+	font-size: 20px;
+	margin-bottom: 4px;
+	font-family:Comic Sans MS;
+}
+.forin{
+	color: white;
+	font-size: 25px;
+	display: inline;
+	font-family:Comic Sans MS;
+}
+.submit{
+	width: 150px;
+	height: 45px;
+	border: 5px solid white;
+	border-radius: 4px;
+	font-size: 25px;
+	margin-bottom: 4px;
+	background-color:black;
+	color: white;
+	margin-top: 8px;
+	font-family:Comic Sans MS;
+}
